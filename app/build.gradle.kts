@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "io.github.xororz.localdream"
+    namespace = "dev.revan.ai"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "io.github.xororz.localdream"
+        applicationId = "dev.revan.ai"
         minSdk = 28
 //        minSdk = 31
         targetSdk = 36
