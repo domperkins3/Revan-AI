@@ -1,6 +1,6 @@
 <div align="center">
 
-# Local Dream <img src="./assets/icon.png" width="32" alt="Local Dream">
+# Revan AI <img src="./assets/icon.png" width="32" alt="Local Dream">
 
 **Android Stable Diffusion with Snapdragon NPU acceleration**  
 _Also supports CPU/GPU inference_
